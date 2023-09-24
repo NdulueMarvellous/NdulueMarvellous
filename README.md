@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-Digital Marketer||Photographer||Fellow@THEROOM||IGHub Fellow||I4G/Zuri intern||Tech enthusiast||SE-Alx||Faith Tech||Chelsea FC💙⚽🇳🇬
+IGHub Fellow||Tech enthusiast||SE-Alx||FaithTech||🇳🇬
 
 
 ## 🛠 Skills
@@ -11,7 +11,7 @@ Javascript, HTML, CSS, C, Shell...
 
 ## Some Extras About me ✨:
 
-🧠 I'm currently learning C...
+🧠 I'm currently learning C, Javascript...
 
 💬 If it's Tech, i gotch you 😉...
 
