@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-IGHub Fellow||Tech enthusiast||SE-Alx||FaithTech||🇳🇬
+God's Son | Digital Marketer | Front-End Developer | Software Engineer(in training) 🇳🇬
 
 
 ## 🛠 Skills
