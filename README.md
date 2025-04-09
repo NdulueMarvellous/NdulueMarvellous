@@ -2,7 +2,7 @@
 
 
 ## 🚀 About Me
-God's Son | Digital Marketer | Front-End Developer | Software Engineer(in training) 🇳🇬
+Christian | Digital Marketer | Front-End Developer | Software Engineer(in training) 🇳🇬
 
 
 ## 🛠 Skills
@@ -11,7 +11,7 @@ Javascript, HTML, CSS, C, Shell...
 
 ## Some Extras About me ✨:
 
-🧠 I'm currently learning C, Javascript...
+🧠 I'm currently learning Full-Stack Javascript...
 
 💬 If it's Tech, i gotch you 😉...
 
